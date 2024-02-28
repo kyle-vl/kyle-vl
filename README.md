@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🏫 2nd Year Computer Systems Engineering @ The University of Auckland
+🏘️ From Palmerston North, New Zealand
+
+🌱 Still have lots to learn!
+
 <!--
 **kyle-vl/kyle-vl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
