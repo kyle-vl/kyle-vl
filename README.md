@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🏫 2nd Year Computer Systems Engineering @ The University of Auckland
+
 🏘️ From Palmerston North, New Zealand
 
 🌱 Still have lots to learn!
