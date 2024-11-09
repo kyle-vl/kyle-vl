@@ -1,8 +1,15 @@
-### Hi there 👋
+## kyle-vl
 
-🏫 2nd Year Computer Systems Engineering @ The University of Auckland
+### About Me
+🌱 Problem solver and critical thinker
 
-🌱 I'm currently learning front-end web development
+🏫 3rd Year Computer Systems Engineering @ The University of Auckland
+
+### I'm currently working on:
+
+⚙️ Embedded systems programming
+
+💻 Front-end web development
 
 <!--
 **kyle-vl/kyle-vl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
